@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: Marx的技术博客
+subtitle: 'Web/嵌入式/Hacker/理财'
+description: '' 
 keywords:
-author: John Doe
-language: en
+author: Marx Lin
+language: zh-cn
 timezone: ''
 
 # URL
@@ -103,4 +103,6 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/linjiaqin12138/linjiaqin12138.github.io
+  branch: main
