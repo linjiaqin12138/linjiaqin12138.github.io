@@ -105,4 +105,4 @@ theme: landscape
 deploy:
   type: git
   repo: https://github.com/linjiaqin12138/linjiaqin12138.github.io
-  branch: main
+  branch: gh-pages
